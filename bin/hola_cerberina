@@ -1,0 +1,2 @@
+require "hola_cerberina"
+puts HolaCerberina.hi(ARGV[0])
